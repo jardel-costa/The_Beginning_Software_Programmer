@@ -13,9 +13,8 @@ header {
   
 }
 
-nav {
-  /* background-color: #EF7D19; */
-}
+/*nav {
+  /* background-color: #EF7D19; }*/
 
 ul {
   display: flex;
@@ -41,9 +40,9 @@ margin: 0 auto;
 section {
   background: rebeccapurple;
   display: flex
-  flex-wrap: wrap;
-  display: flex;
-  flex-direction: row;
+  flex-wrap wrap;
+  display:flex
+  flex-direction row
 }
 
 section div {

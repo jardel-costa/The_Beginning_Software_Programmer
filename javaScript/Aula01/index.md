@@ -1,0 +1,13 @@
+- post 02 -> OK
+- formulario -> OK
+- section com ambos os posts -> OK
+- datas dos posts -> OK
+- textos dos posts -> OK
+- listas com links das redes sociais -> OK
+
+- O link dentro do texto do primeiro post -> OK
+- A palavra em negrito dentro do texto do segundo post
+- O input de nome do formulário
+- Os links da lista de redes no final da página
+- Os links da navegação (só os links, não os elementos de lista)
+- Os 4 "Autor:" e "Data:" em negrito nos dois posts'

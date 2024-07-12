@@ -1,3 +1,5 @@
+
+
 let quantidadeSubtotal = document.getElementById("quantidade-subtotal");
 let valorSubtotal = document.getElementById("valor-subtotal");
 
@@ -6,8 +8,8 @@ let subtotalInfo = {
   valor: 11.66,
 };
 
-quantidadeSubtotal.innerText = subtotalInfo.quantidade + " itens";
-valorSubtotal.innerText = subtotalInfo.valor;
+//quantidadeSubtotal.innerText = subtotalInfo.quantidade + " itens";
+//valorSubtotal.innerText = subtotalInfo.valor;
 
 // Seleção botões
 
@@ -27,13 +29,21 @@ console.log(qtdeProd01)
 
 //Add
 function adicionarProduto() {
-  qtdeProd01.value = Number(qtdeProd01.value) + 1;
+    //qtdeProd01.value = Number(qtdeProd01.value) + 1;
+    qtdeProd01.value++
+    subtotalInfo.quantidade++;
+    quantidadeSubtotal.innerText = subtotalInfo.quantidade + " itens";
+    valorSubtotal.innerText = (subtotalInfo.valor*subtotalInfo.quantidade).toFixed(2);
 } 
 
 //Sub
 function subtrairProduto() {
   if (qtdeProd01.value > 0) {
-    qtdeProd01.value = Number(qtdeProd01.value) - 1;
+    //qtdeProd01.value = Number(qtdeProd01.value) - 1;
+    qtdeProd01.value--
+    subtotalInfo.quantidade--;
+    quantidadeSubtotal.innerText = subtotalInfo.quantidade + " itens";
+    valorSubtotal.innerText = (subtotalInfo.valor*subtotalInfo.quantidade).toFixed(2);
   }
   
 } 

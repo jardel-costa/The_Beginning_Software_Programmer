@@ -1,5 +1,5 @@
 -- SQLite
-Exemplo de Criação das Tabelas
+-- Exemplo de Criação das Tabelas
 CREATE TABLE Cliente (
     ID_Cliente INT PRIMARY KEY,
     Nome VARCHAR(100),
@@ -49,7 +49,7 @@ CREATE TABLE Usuario (
 );
 
 
-Exemplo de Inserção de Dados
+-- Exemplo de Inserção de Dados
 -- Inserir Clientes
 INSERT INTO Cliente (ID_Cliente, Nome, Email, Telefone) VALUES
 (1, 'João da Silva', 'joao.silva@email.com', '987654321'),
@@ -81,7 +81,7 @@ INSERT INTO Usuario (ID_Usuario, Nome_Usuario, Senha, Tipo_Usuario) VALUES
 (1, 'usuario1', 'senha1', 'Cliente'),
 (2, 'admin', 'admin123', 'Administrador');
 
-Consultas SQL
+-- Consultas SQL
 -- Consultar os produtos de um pedido específico
 SELECT p.Nome, ip.Quantidade, ip.Preço_Unitário
 FROM Item_Pedido ip

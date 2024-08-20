@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:sql}/Aula_Video_27_DB2/Video-27-04/VideoDB27-04.db",
+            "name": "VideoDB27-04",
+            "group": "Proz"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

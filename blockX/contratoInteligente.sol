@@ -154,3 +154,75 @@ contract_abi = [
 
     
 # Conectar-se ao contrato inteligente
+
+contract = web3.eth.contract(address=contract_address, abi=contract_abi)
+
+    
+
+    
+# Endereço do sensor (pode ser o endereço de uma conta de teste do Ganache)
+
+    
+sensor_address = "ENDERECO_DO_SENSOR"
+
+    
+
+    
+# Função para obter dados do sensor
+
+    
+def obter_dados_sensor():
+
+    
+    dados = contract.functions.obterDadosSensor(sensor_address).call()
+
+    
+    df = pd.DataFrame(dados, columns=["timestamp", "temperatura", "umidade", "nutrientes"])
+
+    
+    return df
+
+    
+
+    
+# Obter dados do sensor
+
+    
+df = obter_dados_sensor()
+
+    
+print("Dados coletados da blockchain:")
+
+    
+print(df)
+
+    
+
+    
+# Modelo de Machine Learning
+
+    
+X = df[['temperatura', 'umidade']]
+
+    
+y = df['nutrientes']
+
+    
+modelo = RandomForestRegressor()
+
+    
+modelo.fit(X, y)
+
+    
+
+    
+# Previsão de necessidades de nutrientes
+
+    
+novos_dados = {'temperatura': 21, 'umidade': 33}
+
+    
+previsao = modelo.predict([list(novos_dados.values())])
+
+    
+print(f"Previsão de nutrientes necessários: {previsao[0]}")

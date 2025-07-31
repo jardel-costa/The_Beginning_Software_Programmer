@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\bin\Debug\net8.0\PrecoTotalProduto.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\bin\Debug\net8.0\PrecoTotalProduto.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\bin\Debug\net8.0\PrecoTotalProduto.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\bin\Debug\net8.0\PrecoTotalProduto.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\bin\Debug\net8.0\PrecoTotalProduto.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\refint\PrecoTotalProduto.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\PrecoTotalProduto.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\PrecoTotalProduto\obj\Debug\net8.0\ref\PrecoTotalProduto.dll

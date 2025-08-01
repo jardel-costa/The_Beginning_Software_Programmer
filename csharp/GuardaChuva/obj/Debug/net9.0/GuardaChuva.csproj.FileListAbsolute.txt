@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\bin\Debug\net9.0\GuardaChuva.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\bin\Debug\net9.0\GuardaChuva.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\bin\Debug\net9.0\GuardaChuva.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\bin\Debug\net9.0\GuardaChuva.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\bin\Debug\net9.0\GuardaChuva.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\refint\GuardaChuva.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\GuardaChuva.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\GuardaChuva\obj\Debug\net9.0\ref\GuardaChuva.dll

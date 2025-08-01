@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\refint\CalculadoraIMC.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculadoraIMC\obj\Debug\net9.0\ref\CalculadoraIMC.dll

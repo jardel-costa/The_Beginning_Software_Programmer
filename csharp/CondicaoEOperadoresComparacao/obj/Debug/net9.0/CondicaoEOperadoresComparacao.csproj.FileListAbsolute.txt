@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\bin\Debug\net9.0\CondicaoEOperadoresComparacao.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\bin\Debug\net9.0\CondicaoEOperadoresComparacao.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\bin\Debug\net9.0\CondicaoEOperadoresComparacao.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\bin\Debug\net9.0\CondicaoEOperadoresComparacao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\bin\Debug\net9.0\CondicaoEOperadoresComparacao.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\refint\CondicaoEOperadoresComparacao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\CondicaoEOperadoresComparacao.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CondicaoEOperadoresComparacao\obj\Debug\net9.0\ref\CondicaoEOperadoresComparacao.dll

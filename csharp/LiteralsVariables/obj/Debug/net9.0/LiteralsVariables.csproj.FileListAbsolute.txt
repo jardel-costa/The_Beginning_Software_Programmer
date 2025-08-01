@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\bin\Debug\net9.0\LiteralsVariables.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\bin\Debug\net9.0\LiteralsVariables.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\bin\Debug\net9.0\LiteralsVariables.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\bin\Debug\net9.0\LiteralsVariables.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\bin\Debug\net9.0\LiteralsVariables.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\refint\LiteralsVariables.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\LiteralsVariables.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LiteralsVariables\obj\Debug\net9.0\ref\LiteralsVariables.dll

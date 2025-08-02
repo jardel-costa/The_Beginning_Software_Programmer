@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\bin\Debug\net9.0\LoopWhile.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\bin\Debug\net9.0\LoopWhile.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\bin\Debug\net9.0\LoopWhile.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\bin\Debug\net9.0\LoopWhile.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\bin\Debug\net9.0\LoopWhile.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\refint\LoopWhile.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\LoopWhile.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\LoopWhile\LoopWhile\obj\Debug\net9.0\ref\LoopWhile.dll

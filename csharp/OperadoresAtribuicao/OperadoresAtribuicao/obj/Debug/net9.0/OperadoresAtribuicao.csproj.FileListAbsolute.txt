@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net9.0\OperadoresAtribuicao.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\refint\OperadoresAtribuicao.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net9.0\ref\OperadoresAtribuicao.dll

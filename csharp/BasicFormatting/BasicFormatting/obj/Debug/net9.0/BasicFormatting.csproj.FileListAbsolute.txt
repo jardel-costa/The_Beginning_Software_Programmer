@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\bin\Debug\net9.0\BasicFormatting.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\bin\Debug\net9.0\BasicFormatting.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\bin\Debug\net9.0\BasicFormatting.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\bin\Debug\net9.0\BasicFormatting.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\bin\Debug\net9.0\BasicFormatting.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\refint\BasicFormatting.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\BasicFormatting.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\BasicFormatting\BasicFormatting\obj\Debug\net9.0\ref\BasicFormatting.dll

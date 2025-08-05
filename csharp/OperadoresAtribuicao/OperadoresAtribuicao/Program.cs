@@ -29,3 +29,9 @@ Console.WriteLine(c);
 c %= 7;
 
 Console.WriteLine(c);
+
+int rascunho = 5 / 2;
+Console.WriteLine(rascunho);
+
+int result = 3 + 1 * 5 / 2;
+Console.WriteLine(result);

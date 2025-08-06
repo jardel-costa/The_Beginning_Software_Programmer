@@ -17,25 +17,7 @@
 
 <!-- Section: Multi-language Bio -->
 <div>
-  <details open> <!-- The 'open' attribute makes the Portuguese bio visible by default -->
-    <summary>pt-BR <strong>Sobre Mim (Português)</strong></summary>
-    <br>
-    <p>
-      <strong>Engenheiro Apaixonado por Tecnologia 🚀 | Movido pela Curiosidade e Inovação</strong>
-    </p>
-    <p>
-      Desde criança, desmontar meus próprios brinquedos me ensinou o poder da curiosidade e da inovação. 🔧 Essa paixão me impulsionou em uma jornada de mais de 20 anos no mundo da tecnologia.
-    </p>
-    <p>
-      Formado em Engenharia Elétrica com ênfase em Telecomunicações, não me limitei à teoria. Mergulhei em projetos de desenvolvimento e integração de soluções inovadoras, na conexão direta com clientes e na gestão de projetos complexos. Minha recente Pós-Graduação em <strong>Engenharia de Software</strong> consolidou minha transição para o desenvolvimento de aplicações modernas e escaláveis.
-    </p>
-    <p>
-      Atualmente, minha missão é simplificar o complexo e garantir que a tecnologia seja uma ferramenta poderosa para alcançar a expectativa dos nossos clientes. Acredito no poder da comunicação clara, na busca constante por conhecimento e na construção de relações de confiança.
-    </p>
-    <p>Sou um profissional engajado e proativo. Vamos conectar! 🤝</p>
-  </details>
-
-  <details>
+  <details open>
     <summary>en-US <strong>About Me (English)</strong></summary>
     <br>
     <p>
@@ -69,6 +51,24 @@
       Actualmente, mi misión es simplificar lo complejo y garantizar que la tecnología sea una herramienta poderosa para alcanzar las expectativas de nuestros clientes. Creo en el poder de la comunicación clara, la búsqueda constante de conocimiento y la construcción de relaciones de confianza.
     </p>
     <p>Soy un profesional comprometido y proactivo. ¡Conectemos! 🤝</p>
+  </details>
+
+  <details> <!-- The 'open' attribute makes the Portuguese bio visible by default -->
+    <summary>pt-BR <strong>Sobre Mim (Português)</strong></summary>
+    <br>
+    <p>
+      <strong>Engenheiro Apaixonado por Tecnologia 🚀 | Movido pela Curiosidade e Inovação</strong>
+    </p>
+    <p>
+      Desde criança, desmontar meus próprios brinquedos me ensinou o poder da curiosidade e da inovação. 🔧 Essa paixão me impulsionou em uma jornada de mais de 20 anos no mundo da tecnologia.
+    </p>
+    <p>
+      Formado em Engenharia Elétrica com ênfase em Telecomunicações, não me limitei à teoria. Mergulhei em projetos de desenvolvimento e integração de soluções inovadoras, na conexão direta com clientes e na gestão de projetos complexos. Minha recente Pós-Graduação em <strong>Engenharia de Software</strong> consolidou minha transição para o desenvolvimento de aplicações modernas e escaláveis.
+    </p>
+    <p>
+      Atualmente, minha missão é simplificar o complexo e garantir que a tecnologia seja uma ferramenta poderosa para alcançar a expectativa dos nossos clientes. Acredito no poder da comunicação clara, na busca constante por conhecimento e na construção de relações de confiança.
+    </p>
+    <p>Sou um profissional engajado e proativo. Vamos conectar! 🤝</p>
   </details>
 </div>
 
@@ -115,7 +115,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;&nbsp; <!-- Space between badges -->
-    <a href="mailto:jardel.costa@gmail.com">
+    <a href="mailto:jardel.costa@ngntelecom.com.br">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>

@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\bin\Debug\net9.0\CalculatePrintStudentGrades.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\bin\Debug\net9.0\CalculatePrintStudentGrades.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\bin\Debug\net9.0\CalculatePrintStudentGrades.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\bin\Debug\net9.0\CalculatePrintStudentGrades.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\bin\Debug\net9.0\CalculatePrintStudentGrades.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\refint\CalculatePrintStudentGrades.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\CalculatePrintStudentGrades.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculatePrintStudentGrades\CalculatePrintStudentGrades\obj\Debug\net9.0\ref\CalculatePrintStudentGrades.dll

@@ -1,0 +1,15 @@
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\net9.0\CalculateFinalGPA.exe
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\net9.0\CalculateFinalGPA.deps.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\net9.0\CalculateFinalGPA.runtimeconfig.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\net9.0\CalculateFinalGPA.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\bin\Debug\net9.0\CalculateFinalGPA.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.AssemblyInfoInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.AssemblyInfo.cs
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.csproj.CoreCompileInputs.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.sourcelink.json
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\refint\CalculateFinalGPA.dll
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.pdb
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\CalculateFinalGPA.genruntimeconfig.cache
+C:\Users\jcosta\Documents\Prod\Persona\Code\The_Beginning_Software_Programmer\csharp\CalculateFinalGPA\CalculateFinalGPA\obj\Debug\net9.0\ref\CalculateFinalGPA.dll

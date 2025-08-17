@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHSVuIlwKjM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcosta\\Documents\\Prod\\Persona\\Code\\The_Beginning_Software_Programmer\\csharp\\DataminerMyFirstScript\\DataminerMyFirstScript\\DataminerMyFirstScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcosta\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.core.dataminersystem.automation\\1.1.3.4\\skyline.dataminer.core.dataminersystem.automation.1.1.3.4.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.core.dataminersystem.common\\1.1.3.4\\skyline.dataminer.core.dataminersystem.common.1.1.3.4.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.dev.automation\\10.3.0.25\\skyline.dataminer.dev.automation.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.dev.common\\10.3.0.25\\skyline.dataminer.dev.common.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.dataminermessagebroker.api\\10.3.0.25\\skyline.dataminer.files.dataminermessagebroker.api.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.protobufnet\\10.3.0.25\\skyline.dataminer.files.protobufnet.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.skyline.dataminer.storage.types\\10.3.0.25\\skyline.dataminer.files.skyline.dataminer.storage.types.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.slanalyticstypes\\10.3.0.25\\skyline.dataminer.files.slanalyticstypes.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.slloggerutil\\10.3.0.25\\skyline.dataminer.files.slloggerutil.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.slmanagedautomation\\10.3.0.25\\skyline.dataminer.files.slmanagedautomation.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.slnettypes\\10.3.0.25\\skyline.dataminer.files.slnettypes.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.files.slprotobuflibrary\\10.3.0.25\\skyline.dataminer.files.slprotobuflibrary.10.3.0.25.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\skyline.dataminer.utils.securecoding.analyzers\\2.1.0\\skyline.dataminer.utils.securecoding.analyzers.2.1.0.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\jcosta\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
